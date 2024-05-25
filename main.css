@@ -60,7 +60,7 @@
     --primary-900-hsl: 0 calc(var(--saturation-factor, 1)*0%) calc(var(--lightness-900, 0) + 0.8%);
   }
   .wordmarkWindows_ffbc5e {
-    width: 100rem;
+    width: 120rem;
     background-color: rgb(0, 0, 0);
   }
   .titleBar__710b0::after {
